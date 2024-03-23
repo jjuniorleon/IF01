@@ -16,7 +16,7 @@
 
 # Como executar o projeto
 
-Entre em um IDE de C (exp:devC++) e compile e execute.
+Abra o projeto (atividade if 1.cpp) no IDE DevC++, compile e use.
 
 # Autor
 
